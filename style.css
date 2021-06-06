@@ -1,0 +1,56 @@
+img{
+    max-width: 100%;
+}
+/* Header Section */
+.header-content{
+   margin-top: 150px;
+}
+ul{
+    list-style: none;
+}
+.header-content .btn{
+    background: #8490FF;
+    color: #fff;
+}
+.menu li{}
+.menu ul{}
+.menu ul li{}
+.menu ul li a{}
+.menu ul li a:hover{}
+
+.dropdown-link{}
+/* About Section */
+.about-section{
+    margin-top: 50px;
+}
+.about-section .btn{
+    background: #8490FF;
+    color: #fff;
+}
+/* Counter Section */
+.counter-section{
+    background: #8490FF;
+}
+/* Team Section */
+ .team-section .team-item img {
+	width: 90px;
+	height: auto;
+	margin-top: -53px;
+	margin-left: 15px;
+}
+/* Contact Section */
+.contact-section{
+    background: #f7f9ff;
+}
+.contact-left{
+    background: #fff;
+    box-shadow: 4px 5px 30px 0px rgba(102, 101, 109, 0.2);
+}
+.contact-right{
+    margin-top: 50px;
+}
+/* Footer Section */
+.footer-section p{
+    margin-top: 15px;
+    font-size: 20px;
+}
